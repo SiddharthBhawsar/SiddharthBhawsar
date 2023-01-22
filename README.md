@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Software Development
 - 🌱 I’m a Certified ML Engineer with hands-on experience in Computer Vision, Problem Solving (6 stars on HackerRank), and Web Development (Django, MySQL).
 - 💞️ I’m looking to collaborate on Computer Vision, AI or Data Science related projects
-- 📫 How to reach me? (http://siddharthbhawsar.herokuapp.com)
+- 📫 How to reach me? (https://siddharthbhawsar.up.railway.app/)
 
 <!---
 SiddharthBhawsar/SiddharthBhawsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
